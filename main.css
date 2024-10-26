@@ -1,3 +1,9 @@
 body {
     background-color: blanchedalmond;
 }
+
+.popup {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
